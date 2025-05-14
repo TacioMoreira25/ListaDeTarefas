@@ -27,6 +27,7 @@ namespace ListaDeTarefas
             {
                 Id = t.Id,
                 Titulo = t.Titulo,
+                Descricao = t.Descricao,
                 Prazo = t.Prazo,
                 Concluido = t.Concluido
             }).ToList();
@@ -49,6 +50,7 @@ namespace ListaDeTarefas
             {
                 Id = tarefa.Id,
                 Titulo = tarefa.Titulo,
+                Descricao = tarefa.Descricao,
                 Prazo = tarefa.Prazo,
                 Concluido = tarefa.Concluido
             };
@@ -69,6 +71,7 @@ namespace ListaDeTarefas
             {
                 Id = tarefaDto.Id,
                 Titulo = tarefaDto.Titulo,
+                Descricao = tarefaDto.Descricao,
                 Prazo = tarefaDto.Prazo,
                 Concluido = tarefaDto.Concluido
             };
@@ -101,6 +104,7 @@ namespace ListaDeTarefas
             var tarefa = new Tarefa
             {
                 Titulo = tarefaDto.Titulo,
+                Descricao = tarefaDto.Descricao,
                 Prazo = tarefaDto.Prazo,
                 Concluido = tarefaDto.Concluido
             };
@@ -112,6 +116,7 @@ namespace ListaDeTarefas
             {
                 Id = tarefa.Id,
                 Titulo = tarefa.Titulo,
+                Descricao = tarefa.Descricao,
                 Prazo = tarefa.Prazo,
                 Concluido = tarefa.Concluido
             };

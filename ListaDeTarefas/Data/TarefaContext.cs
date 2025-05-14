@@ -17,5 +17,6 @@ public class TarefaContext : DbContext
     {
         modelBuilder.Entity<Tarefa>()
             .HasKey(t => t.Id);
+     
     }
 }

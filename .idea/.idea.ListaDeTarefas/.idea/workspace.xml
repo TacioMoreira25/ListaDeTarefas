@@ -8,7 +8,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35970183-c4e3-4945-a566-0615d7062eeb" name="Changes" comment="" />
+    <list default="true" id="35970183-c4e3-4945-a566-0615d7062eeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/Migrations/20250208023244_novodb.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/Migrations/20250208023244_novodb.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/Migrations/20250331003426_Descricao.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/Migrations/20250331003426_Descricao.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources/c8efea75-c4c7-491d-88e6-97587f6a18e4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/dataSources/c8efea75-c4c7-491d-88e6-97587f6a18e4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ListaDeTarefas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Controllers/TarefaController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Controllers/TarefaController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Data/TarefaContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Data/TarefaContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Dto/TarefaDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Dto/TarefaDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Migrations/TarefaContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Migrations/TarefaContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Models/Tarefa.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Models/Tarefa.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/ListaDeTarefas.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ref/ListaDeTarefas.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/ref/ListaDeTarefas.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/refint/ListaDeTarefas.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/refint/ListaDeTarefas.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/ListaDeTarefas.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/ListaDeTarefas.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/ListaDeTarefas.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/ListaDeTarefas.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaDeTarefas/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ListaDeTarefas/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +69,27 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TacioMoreira25&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TacioMoreira25/ListaDeTarefas.git&quot;,
+    &quot;accountId&quot;: &quot;71bfb8c7-85bc-486c-a70f-b8f9e7b5ae06&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/Models/Tarefa.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ListaDeTarefas/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -30,6 +103,8 @@
     &quot;.NET Launch Settings Profile.ListaDeTarefas: http.executor&quot;: &quot;Run&quot;,
     &quot;HTTP Request.ListaDeTarefas | #1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,14 +177,57 @@
       <workItem from="1738017181297" duration="988000" />
       <workItem from="1738108948243" duration="2343000" />
       <workItem from="1738192815507" duration="708000" />
+      <workItem from="1738891308709" duration="199000" />
+      <workItem from="1738977565503" duration="539000" />
+      <workItem from="1738981790359" duration="196000" />
+      <workItem from="1739138450071" duration="2647000" />
+      <workItem from="1739233775301" duration="1341000" />
+      <workItem from="1739927823268" duration="15000" />
+      <workItem from="1741389665742" duration="3026000" />
+      <workItem from="1742177845861" duration="644000" />
+      <workItem from="1742612460926" duration="795000" />
+      <workItem from="1742655503377" duration="4042000" />
+      <workItem from="1742780745912" duration="2731000" />
+      <workItem from="1742820728217" duration="1540000" />
+      <workItem from="1743195046008" duration="4945000" />
+      <workItem from="1743208250748" duration="1213000" />
+      <workItem from="1743253532513" duration="4633000" />
+      <workItem from="1743380884428" duration="1513000" />
+      <workItem from="1743383560181" duration="84000" />
+      <workItem from="1743423511631" duration="3055000" />
+      <workItem from="1743980980424" duration="4526000" />
+      <workItem from="1744550207917" duration="1692000" />
+      <workItem from="1744633742726" duration="788000" />
+      <workItem from="1747249310528" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="refactor: melhorando projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: melhorando projeto" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

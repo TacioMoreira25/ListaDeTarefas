@@ -156,7 +156,6 @@
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/runtimes/unix/lib/net9.0/Microsoft.Data.SqlClient.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/runtimes/win/lib/net9.0/Microsoft.Data.SqlClient.dll
-/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Build.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Build.Framework.dll
@@ -277,3 +276,13 @@
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/obj/Debug/net9.0/ListaDeTarefas.sourcelink.json
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/tacio/RiderProjects/ListaDeTarefas/ListaDeTarefas/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
